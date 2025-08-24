@@ -49,6 +49,7 @@ It follows the template provided by faculty and highlights academic details, lab
 ---
 
 ## 📂 Project Structure
+'''
 .
 ├── pv2636.html # Main portfolio page
 ├── photo.jpg # Profile image
@@ -57,5 +58,5 @@ It follows the template provided by faculty and highlights academic details, lab
 ├── poster.jpg # Real world application demo
 ├── cert1.png # Example certification
 └── sign.jpg # Signature image
-##
+'''
 ----
