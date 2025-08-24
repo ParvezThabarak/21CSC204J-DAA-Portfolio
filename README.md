@@ -57,12 +57,4 @@ It follows the template provided by faculty and highlights academic details, lab
 ├── poster.jpg # Real world application demo
 ├── cert1.png # Example certification
 └── sign.jpg # Signature image
-
-
----
-
-## 🚀 How to Run
-   Clone the repository:
-   ```bash
-   git clone https://github.com/ParvezThabarak/daa-portfolio.git
-   cd daa-portfolio
+----
