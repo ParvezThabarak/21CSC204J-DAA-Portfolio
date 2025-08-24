@@ -57,4 +57,5 @@ It follows the template provided by faculty and highlights academic details, lab
 ├── poster.jpg # Real world application demo
 ├── cert1.png # Example certification
 └── sign.jpg # Signature image
+##
 ----
